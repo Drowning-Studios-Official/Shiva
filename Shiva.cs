@@ -4,8 +4,6 @@ using System.IO;
 using static System.Console;
 
 
-//Console.Title = "Shiva: S - Secure, H - Highly, I - Impenetrable, V - Virtual, A - Virtual";
-
 class SecureFileShredder
 {
     // Number of times to overwrite the file with random data
