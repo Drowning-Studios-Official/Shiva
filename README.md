@@ -1,5 +1,8 @@
 Shiva: S - Secure, H - Highly, I - Impenetrable, V - Virtual, A - Virtual
 
+
+Shiva - The Powerful File Shredder 🗡️
+
 Overview:
 Welcome to Shiva, the ultimate terminal application for secure file disposal. Named after the formidable Hindu god of destruction, Shiva is here to safeguard your data privacy with unparalleled efficiency. This open-source tool employs advanced algorithms to overwrite file content multiple times with random data, ensuring that sensitive information is rendered irrecoverable. Whether you're a privacy-conscious individual, a cybersecurity enthusiast, or a professional in need of secure data disposal, Shiva has got your back.
 
@@ -8,6 +11,8 @@ Legal Information:
 License: Shiva is released under the MIT License, granting you the freedom to use, modify, and distribute the software. See the LICENSE file for full details.
 Features:
 
+🚀 Advanced Data Disposal: Shiva utilizes cutting-edge methods to ensure secure and irreversible file deletion, providing you with complete peace of mind.
+
 🌀 Impeccable Data Destruction: With Shiva, data recovery becomes virtually impossible, ensuring your confidential information remains confidential.
 
 🖥️ Seamless Terminal Integration: Access Shiva's potent capabilities directly from your command line, making file shredding effortless.
@@ -15,6 +20,8 @@ Features:
 💻 Cross-Platform Compatibility: Shiva works smoothly on various platforms, including Windows, macOS, and Linux, ensuring accessibility for all users.
 
 🌟 User-Friendly Interface: Despite its powerful nature, Shiva offers an intuitive and straightforward user experience, enabling users of all levels to utilize it effectively.
+
+🔧 DotNet v6+ Compatibility: Shiva runs seamlessly on the latest version of DotNet (v6 and above), harnessing the cutting-edge features and performance improvements of the platform.
 
 Usage:
 Please note that when using Shiva, enter the full path of the file you wish to delete, like this: "C:\user\desktop\file.exe". Exercise caution while shredding files, as data deleted using Shiva is irrecoverable.
