@@ -1,6 +1,3 @@
-Shiva: S - Secure, H - Highly, I - Impenetrable, V - Virtual, A - Virtual
-
-
 Shiva - The Powerful File Shredder 🗡️
 
 Overview:
